@@ -30,3 +30,16 @@
 
      **isFlaggedFraud** : *The business model aims to control massive transfers from one account to another and flags illegal attempts. An illegal attempt in this dataset is an attempt to transfer more than 200.000 in a single transaction.*
      
+# Exploratory Data Analysis:     
+* *The given data set is loaded to data frame and data analysis is carried out.*
+* *From the visualizations it is observed that only 0.13% of the transactions made are fraud.*
+
+![image](https://user-images.githubusercontent.com/121590533/218256465-2d85ca7e-b1c0-472f-a46c-b18ab073bf9a.png)
+
+* *In the data set there are many outliers are present*
+
+![image](https://user-images.githubusercontent.com/121590533/218256768-7ddc7048-5ae1-4258-a2b0-e00f653f6efe.png)
+
+* *Now we know even though outliers are present, some columns contribute or effect the desired output in a good way. To determine the influence of the variables to the ouput we can **RIANCE INFLATION FACTOR, CORRELATION MAP.***
+
+
